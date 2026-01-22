@@ -4,15 +4,15 @@ This folder contains screenshots used in the project.
 
 - **Main screen**
 
-  ![Main screen](./main.png)
+  ![Main screen](/images/main.png)
 
 - **Sign in**
 
-  ![Sign in screen](./sign_in.png)
+  ![Sign in screen](/images/sign_in.png)
 
 - **Sign up**
 
-  ![Sign up screen](./sign_up.png)
+  ![Sign up screen](/images/sign_up.png)
 
 ## How to use
 
